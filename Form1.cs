@@ -28,7 +28,7 @@ namespace Russian_Roulette
     //3             6               no
     //3             5               no
     //3             4               no
-    //3             3               yes    =>  ()  your dead         <= shoots away You live
+    //3             3               yes    =>  ()  you are dead         <= shoots away You live
 
     //3             2               no      
     //3             1               no 
