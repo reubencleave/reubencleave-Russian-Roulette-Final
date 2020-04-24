@@ -41,7 +41,7 @@ namespace Russian_Roulette
         int shootaway = 1;
         int count = 6;
 
-        //  Boolean CanIshootaway = true;
+        //  Boolean IsShootingAway = true;
         bool IsShootingAway = false;
 
         private void btnFire_Click(object sender, EventArgs e)
